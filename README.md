@@ -26,9 +26,4 @@ username = 'username'
 pas = 'password'
 port_id = 'port'
 
-redshift_endpoint = 'redshift_endpoint'
-redshift_database = 'redshift_database'
-redshift_username = 'redshift_username'
-redshift_password = 'redshift_password'
-redshift_port = 'redshift_port'
-
+# The same holds for Redshift
