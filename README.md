@@ -25,5 +25,6 @@ database = 'database'
 username = 'username'
 pas = 'password'
 port_id = 'port'
+```
 
-# The same holds for Redshift
+The same holds for Redshift
