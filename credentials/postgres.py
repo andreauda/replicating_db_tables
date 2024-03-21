@@ -1,0 +1,5 @@
+hostname = "<your_hostname>"
+database = "<your_database>"
+username = "<your_username>"
+pas =      "<password>"
+port_id =  "<your_port>"

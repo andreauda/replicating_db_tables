@@ -1,0 +1,30 @@
+2024-03-21 15:07:56,281 - INFO - 
+             SCRIPT STARTED...
+             
+2024-03-21 15:08:29,778 - INFO - 
+             SCRIPT STARTED...
+             
+2024-03-21 15:08:30,220 - INFO - Getting a Postgres connection from the connection pool
+2024-03-21 15:08:30,220 - INFO - Getting a Postgres connection from get_connection()
+2024-03-21 15:08:30,685 - INFO - For the table "async_jobs", content retrieved (1/2)
+2024-03-21 15:08:30,745 - INFO - For the table "async_jobs", column names retrieved (2/2)
+2024-03-21 15:08:30,766 - INFO - Table "async_jobs", retrieved from Postgres
+2024-03-21 15:08:30,807 - INFO - Releasing the Postgres connection back to the connection pool
+2024-03-21 15:08:30,817 - INFO - Redshift connection opened.
+2024-03-21 15:08:35,782 - INFO - Table: async_jobs successfully uploaded to Redshift.
+2024-03-21 15:08:35,782 - INFO - Getting a Postgres connection from the connection pool
+2024-03-21 15:08:35,782 - INFO - Getting a Postgres connection from get_connection()
+2024-03-21 15:09:38,074 - INFO - For the table "background_jobs", content retrieved (1/2)
+2024-03-21 15:09:38,171 - INFO - For the table "background_jobs", column names retrieved (2/2)
+2024-03-21 15:09:39,720 - INFO - Table "background_jobs", retrieved from Postgres
+2024-03-21 15:09:39,762 - INFO - Releasing the Postgres connection back to the connection pool
+2024-03-21 15:14:45,928 - INFO - Table: background_jobs successfully uploaded to Redshift.
+2024-03-21 15:14:45,928 - INFO - Getting a Postgres connection from the connection pool
+2024-03-21 15:14:45,928 - INFO - Getting a Postgres connection from get_connection()
+2024-03-21 15:14:46,016 - INFO - For the table "capabilities", content retrieved (1/2)
+2024-03-21 15:14:46,062 - INFO - For the table "capabilities", column names retrieved (2/2)
+2024-03-21 15:14:46,064 - INFO - Table "capabilities", retrieved from Postgres
+2024-03-21 15:14:46,121 - INFO - Releasing the Postgres connection back to the connection pool
+2024-03-21 15:23:36,746 - INFO - 
+             SCRIPT STARTED...
+             
