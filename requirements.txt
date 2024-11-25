@@ -57,7 +57,7 @@ SQLAlchemy==1.4.49
 sqlalchemy-redshift==0.8.14
 stack-data==0.6.2
 tenacity==8.2.3
-tornado==6.3.3
+tornado==6.4.2
 traitlets==5.10.0
 typing_extensions==4.7.1
 tzdata==2023.3
